@@ -18,3 +18,4 @@ transliterate('Строка на русском языке або текст у�
 ```
 
 a method *.noConflict* is available on *transliterate* object. This method, when invoken, restores the namespace transliterate to the previous value, if any.
+
