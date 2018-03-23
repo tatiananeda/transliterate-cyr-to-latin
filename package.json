@@ -1,0 +1,26 @@
+{
+  "name": "transliterate-cyr-to-latin",
+  "version": "1.0.0",
+  "description": "to use at server side run:\r ```\r nmp install transliterate-cyr-to-latin\r ```",
+  "main": "./module/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nedavniat/transliterate-cyr-to-latin.git"
+  },
+  "keywords": [
+    "transliterate",
+    "cyr",
+    "cyrillic",
+    "lat",
+    "latin"
+  ],
+  "author": "Nedavnia Tania",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nedavniat/transliterate-cyr-to-latin/issues"
+  },
+  "homepage": "https://github.com/nedavniat/transliterate-cyr-to-latin#readme"
+}
