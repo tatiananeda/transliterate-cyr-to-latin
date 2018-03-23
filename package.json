@@ -1,0 +1,20 @@
+{
+  "name": "transliterate-cyr-to-latin",
+  "version": "1.0.0",
+  "description": "module transliterates cyrilic string to latin",
+  "main": "./module/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "translit",
+    "transliterate",
+    "cyr",
+    "lat",
+    "cyrillic",
+    "latin",
+    "ISO 9"
+  ],
+  "author": "Nedavnia Tania",
+  "license": "ISC"
+}
