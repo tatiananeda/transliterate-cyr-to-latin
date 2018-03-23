@@ -1,6 +1,6 @@
 {
   "name": "transliterate-cyr-to-latin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Module for transliteration of cyrillic text into latin under the rules of ISO 9",
   "main": "./module/index.js",
   "scripts": {
