@@ -1,7 +1,7 @@
 {
   "name": "transliterate-cyr-to-latin",
-  "version": "1.0.0",
-  "description": "to use at server side run:\r ```\r nmp install transliterate-cyr-to-latin\r ```",
+  "version": "1.0.1",
+  "description": "Module for transliteration of cyrillic text into latin under the rules of ISO 9",
   "main": "./module/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
