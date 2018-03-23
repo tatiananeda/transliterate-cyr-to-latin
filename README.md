@@ -1,4 +1,4 @@
-# Module for transliteration of cyrillic into latin under the rules of [ISO 9](https://en.wikipedia.org/wiki/ISO_9)
+# Module for transliteration of cyrillic text into latin under the rules of [ISO 9](https://en.wikipedia.org/wiki/ISO_9)
 
 ### Enable
 to use at server side run:
